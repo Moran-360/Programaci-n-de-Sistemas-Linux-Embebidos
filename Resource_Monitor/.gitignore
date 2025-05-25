@@ -1,0 +1,11 @@
+# Archivos objeto y de dependencia
+obj/
+*.o
+*.d
+
+# Ejecutables
+bin/
+
+# Archivos del editor (ejemplos)
+*.swp
+*~
